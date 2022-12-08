@@ -1,4 +1,4 @@
-## About @builderx-framework/bx-app-service-web
+## About @builderx-framework/bx-app-service-web-link
 
 > **Note:** This repository contains link package for BuilderX web app.
 

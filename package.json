@@ -1,6 +1,6 @@
 {
   "name": "@builderx-framework/bx-app-service-web-link",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Link package for BuilderX web app",
   "main": "index.ts",
   "scripts": {},
