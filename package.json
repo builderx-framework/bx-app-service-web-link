@@ -1,0 +1,25 @@
+{
+  "name": "@builderx-framework/bx-app-service-web-link",
+  "version": "0.0.1",
+  "description": "Link package for BuilderX web app",
+  "main": "index.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/builderx-framework/bx-app-service-web-link"
+  },
+  "keywords": [
+    "web",
+    "apps-service",
+    "next"
+  ],
+  "author": "Shivam Singhal",
+  "license": "ISC",
+  "dependencies": {
+    "next": "12.0.4",
+    "typescript": "4.9.4"
+  },
+  "peerDependencies": {
+    "@builderx-framework/core": "^0.0.3"
+  }
+}
